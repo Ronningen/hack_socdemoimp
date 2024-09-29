@@ -1,6 +1,7 @@
 *.csv
 baseline_socdem.ipynb
 catboost_info/
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
